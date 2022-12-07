@@ -1,0 +1,11 @@
+C:\Users\26621\Desktop\Tree\bin\Debug\Tree.exe.config
+C:\Users\26621\Desktop\Tree\bin\Debug\Tree.exe
+C:\Users\26621\Desktop\Tree\bin\Debug\Tree.pdb
+C:\Users\26621\Desktop\Tree\obj\Debug\Tree.csproj.AssemblyReference.cache
+C:\Users\26621\Desktop\Tree\obj\Debug\Tree.csproj.SuggestedBindingRedirects.cache
+C:\Users\26621\Desktop\Tree\obj\Debug\Tree.Form1.resources
+C:\Users\26621\Desktop\Tree\obj\Debug\Tree.Properties.Resources.resources
+C:\Users\26621\Desktop\Tree\obj\Debug\Tree.csproj.GenerateResource.cache
+C:\Users\26621\Desktop\Tree\obj\Debug\Tree.csproj.CoreCompileInputs.cache
+C:\Users\26621\Desktop\Tree\obj\Debug\Tree.exe
+C:\Users\26621\Desktop\Tree\obj\Debug\Tree.pdb
